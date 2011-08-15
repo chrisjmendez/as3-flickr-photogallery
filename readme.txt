@@ -1,0 +1,1 @@
+This project is geared towards Flash Designers/Developers who want to leverage Flickr's image management capabilities. Most Flash Flickr Photo Galleries are built using Flex but this project attempts to give designers the ability to design parts of the GUI in Flash CS3.
